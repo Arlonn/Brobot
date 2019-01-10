@@ -1,1 +1,1 @@
-worker: node Brobot
+worker: node Main.js
